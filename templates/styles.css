@@ -1,0 +1,23 @@
+body {
+	/* Old browsers */
+	background: #141E30;
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(-45deg, rgb(26, 146, 116), #141E30);
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(-45deg, rgb(24, 161, 116), rgb(4, 16, 37));
+	margin: 0;
+	padding: 0;
+  }
+  
+  h1 {
+	color: #FFF;
+	font-size: 2em;
+	padding-top: 100px;
+	width: 100%;
+	text-align: center;
+	font-family: 'Alegreya';font-size: 42px;
+	/* font-style: italic; */
+	
+  }
+  
+  
