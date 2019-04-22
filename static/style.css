@@ -110,8 +110,8 @@ label {
 .btn {
   width: 100%;
   color: white;
-  background: #DE0F62;
-  border: 3px solid #DE0F62;
+  background: rgb(77, 15, 222);
+  border: 3px solid rgb(15, 222, 77);
   font-size: 15px;
   font-weight: 60;
   text-transform: uppercase;
